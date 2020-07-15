@@ -1,6 +1,6 @@
 ---
-title: "Why I Love Ice Cream"
-date: "2017-08-10"
+title: "Geri patarimai"
+date: "2020-07-16"
 ---
 
 ### Ice cream is the best.
