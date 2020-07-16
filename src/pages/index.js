@@ -3,7 +3,7 @@ import { graphql, Link } from "gatsby"
 import styled from "styled-components"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
+//import Image from "../components/image"
 import SEO from "../components/seo"
 
 const BlogLink = styled(Link)`
@@ -43,18 +43,18 @@ export default ({ data }) => {
 
 export const query = graphql`
 query{
-  allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC}) {
+  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
     edges {
        node {
-         id
-         frontmatter {
-           date
+        id
+        frontmatter {
+           date(formatString: "YYYY-MM-DD")
            description
            title
-         }
-         fields {
+        }
+        fields {
            slug
-         }
+        }
         excerpt
        }
      }
