@@ -3,7 +3,7 @@ title: "Geri patarimai"
 date: "2020-07-16"
 ---
 
-### Ice cream is the best.
+### 20 žingsnių
 
 I scream, you scream, we all scream, because there's no more ice cream. No one's rhyming about spinach.
 
