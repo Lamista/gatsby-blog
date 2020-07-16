@@ -1,6 +1,7 @@
 ---
 title: "20 žingsnių finansinei sveikatai"
 date: "2020-07-16"
+description: ""
 ---
 
 ### 20 žingsnių finansinei sveikatai: padarykite taip, kad gera finansinė būklė lydėtų visą gyvenimą.
